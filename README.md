@@ -6,3 +6,4 @@ I've also added a version that is a self-contained air quality sensor with an OL
 
 Go to http://www.suppertime.co.uk/blogmywiki/2021/09/ccs811-air-quality-sensor-microbit/ for more information on how to wire and use it.
 
+![micro:bit with air quality sensor and OLED display](https://raw.githubusercontent.com/blogmywiki/microbit-CCS811/main/oled/OLED%20air%20quality%20microbit.JPG)
