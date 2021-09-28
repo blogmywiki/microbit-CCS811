@@ -12,7 +12,8 @@ def main():
     time.sleep(1)
     while True:
         if s.data_ready():
-            print('eCO2: %d ppm, TVOC: %d ppb' % (s.eCO2, s.tVOC))
+            print('eCO2:%d' % (s.eCO2))
+            print('TVOC:%d' % (s.tVOC))
             time.sleep(1)
 
 main()
